@@ -21,7 +21,7 @@ modified=cm:modified
 ```
 
 ### Important Notes:
-1. **Namespace Specification**: All namespaces that the content model properties belong to must be specified, as shown above with `namespace.prefix.cm`.
+1. **Namespace Specification**: All namespaces that the content model properties belong to must be specified, just like the sample from the documentation, using the ACME model (```namespace.prefix.acme=http://www.acme.org/model/content/1.0```)
 2. **Case Sensitivity**: Property names are case-sensitive.
 
 Additional instructions can be found in the [Metadata Extractors Documentation](https://docs.alfresco.com/content-services/latest/develop/repo-ext-points/metadata-extractors/).
